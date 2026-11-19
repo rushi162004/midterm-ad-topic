@@ -1,0 +1,29 @@
+[project]
+name = "midterm-ad-topic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rushi Gor", email = "rushi012004@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "db-dtypes>=1.9.0",
+    "google-cloud-bigquery>=3.47.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "pyarrow>=26.0.1",
+    "python-dotenv>=1.2.4",
+    "seaborn>=0.13.2",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.6",
+]
