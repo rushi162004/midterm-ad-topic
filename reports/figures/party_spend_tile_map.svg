@@ -1,0 +1,838 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="block" class="plt-container" width="1100.0" height="560.0">
+  <style type="text/css">
+  .plt-container {
+   font-family: sans-serif;
+   user-select: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+}
+text {
+   text-rendering: optimizeLegibility;
+}
+#paBeKQ7 .plot-title {
+fill:#344e41;
+font-weight: bold;
+font-style: normal;
+font-family: sans-serif;
+font-size: 17.0px;
+
+}
+#paBeKQ7 .plot-subtitle {
+fill:#3a5a40;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 12.0px;
+
+}
+#paBeKQ7 .plot-caption {
+fill:#588157;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 9.0px;
+
+}
+#paBeKQ7 .plot-tag {
+fill:#474747;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 16.0px;
+
+}
+#paBeKQ7 .hyperlink-element {
+fill:#118ed8;
+font-weight: normal;
+font-style: normal;
+
+}
+#paBeKQ7 .legend-title {
+fill:#474747;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 15.0px;
+
+}
+#paBeKQ7 .legend-item {
+fill:#474747;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#paBeKQ7 .axis-title-x {
+fill:#3a5a40;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 15.0px;
+
+}
+#paBeKQ7 .axis-text-x {
+fill:#3a5a40;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#dXiyPCq .axis-tooltip-text-x {
+fill:#ffffff;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#paBeKQ7 .axis-title-y {
+fill:#3a5a40;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 15.0px;
+
+}
+#paBeKQ7 .axis-text-y {
+fill:#3a5a40;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#dXiyPCq .axis-tooltip-text-y {
+fill:#ffffff;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#paBeKQ7 .facet-strip-text-x {
+fill:#344e41;
+font-weight: bold;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#paBeKQ7 .facet-strip-text-y {
+fill:#344e41;
+font-weight: bold;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#dXiyPCq .tooltip-text {
+fill:#474747;
+font-weight: normal;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#dXiyPCq .tooltip-title {
+fill:#474747;
+font-weight: bold;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+#dXiyPCq .tooltip-label {
+fill:#474747;
+font-weight: bold;
+font-style: normal;
+font-family: sans-serif;
+font-size: 13.0px;
+
+}
+
+  </style>
+  <g id="paBeKQ7">
+    <path fill-rule="evenodd" fill="rgb(255,255,255)" fill-opacity="1.0" d="M2.5050505050504626 0.0 L2.5050505050504626 560.0 L1097.4949494949497 560.0 L1097.4949494949497 0.0 Z">
+    </path>
+    <g transform="translate(23.505050505050463 68.0 ) ">
+      <g>
+        <g transform="translate(0.0 19.0 ) ">
+          <g>
+          </g>
+        </g>
+        <g transform="translate(0.0 19.0 ) ">
+          <g>
+          </g>
+        </g>
+      </g>
+      <g clip-path="url(#czLQ3Jf)" clip-bounds-jfx="[rect (0.0, 19.0), (528.9949494949495, 383.6666666666667)]">
+        <g transform="translate(0.0 19.0 ) ">
+          <g>
+            <g buffered-rendering="static">
+              <g>
+                <g >
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="17.439393939393923" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#97a782" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="17.439393939393923" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#99a883" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="61.47826752372206" height="40.51576369758188" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="61.47826752372206" height="40.51576369758188" width="40.51576369758186" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="61.47826752372206" height="40.51576369758188" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="105.5171411080502" height="40.51576369758189" width="40.5157636975819" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="105.5171411080502" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#809173" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#819273" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="105.5171411080502" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#92a27f" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="105.5171411080502" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="105.5171411080502" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#90a07e" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="149.55601469237834" height="40.51576369758189" width="40.5157636975819" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#62775f" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#7f9172" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="149.55601469237834" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#8c9c7b" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="149.55601469237834" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#344e41" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#a2b08a" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="193.59488827670648" height="40.51576369758186" width="40.5157636975819" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="193.59488827670648" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#9dab86" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="193.59488827670648" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#9aa984" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#a2b08a" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="237.6337618610346" height="40.51576369758186" width="40.5157636975819" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="237.6337618610346" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#8e9e7c" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="237.6337618610346" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="237.6337618610346" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="237.6337618610346" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="281.67263544536274" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="281.67263544536274" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="281.67263544536274" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="281.67263544536274" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#4b6250" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="281.67263544536274" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="325.7115090296909" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#6f8268" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="325.7115090296909" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#9dab86" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="325.7115090296909" height="40.51576369758186" width="40.51576369758192" />
+                </g>
+              </g>
+            </g>
+            <g buffered-rendering="static">
+              <g transform="rotate(0.0 484.69184266911543 37.69727578818487 ) ">
+                <g transform="translate(484.69184266911543 41.19727578818487 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>ME</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 81.73614937251301 ) ">
+                <g transform="translate(264.49747474747477 85.23614937251301 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>WI</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 484.69184266911543 81.73614937251301 ) ">
+                <g transform="translate(484.69184266911543 85.23614937251301 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NH</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 125.77502295684114 ) ">
+                <g transform="translate(264.49747474747477 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>IL</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 125.77502295684114 ) ">
+                <g transform="translate(308.53634833180286 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>MI</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 125.77502295684114 ) ">
+                <g transform="translate(396.61409550045914 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NY</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 44.30310682583411 169.81389654116927 ) ">
+                <g transform="translate(44.30310682583411 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>OR</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 88.34198041016224 169.81389654116927 ) ">
+                <g transform="translate(88.34198041016224 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NV</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 169.81389654116927 ) ">
+                <g transform="translate(264.49747474747477 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>IN</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 169.81389654116927 ) ">
+                <g transform="translate(308.53634833180286 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>OH</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 169.81389654116927 ) ">
+                <g transform="translate(352.575221916131 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>PA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 169.81389654116927 ) ">
+                <g transform="translate(396.61409550045914 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NJ</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 440.6529690847873 169.81389654116927 ) ">
+                <g transform="translate(440.6529690847873 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>CT</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 132.38085399449037 213.85277012549741 ) ">
+                <g transform="translate(132.38085399449037 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>CO</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 176.41972757881848 213.85277012549741 ) ">
+                <g transform="translate(176.41972757881848 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NE</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 213.85277012549741 ) ">
+                <g transform="translate(264.49747474747477 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>KY</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 213.85277012549741 ) ">
+                <g transform="translate(352.575221916131 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>VA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 213.85277012549741 ) ">
+                <g transform="translate(396.61409550045914 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>MD</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 88.34198041016224 257.89164370982553 ) ">
+                <g transform="translate(88.34198041016224 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>AZ</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 132.38085399449037 257.89164370982553 ) ">
+                <g transform="translate(132.38085399449037 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NM</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 220.45860116314662 257.89164370982553 ) ">
+                <g transform="translate(220.45860116314662 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>AR</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 257.89164370982553 ) ">
+                <g transform="translate(264.49747474747477 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>TN</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 257.89164370982553 ) ">
+                <g transform="translate(308.53634833180286 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NC</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 257.89164370982553 ) ">
+                <g transform="translate(352.575221916131 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>SC</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 301.9305172941537 ) ">
+                <g transform="translate(308.53634833180286 305.4305172941537 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>AL</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 176.41972757881848 345.9693908784818 ) ">
+                <g transform="translate(176.41972757881848 349.4693908784818 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>TX</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 345.9693908784818 ) ">
+                <g transform="translate(396.61409550045914 349.4693908784818 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>FL</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+            <g buffered-rendering="static">
+              <g transform="rotate(0.0 220.45860116314662 169.81389654116927 ) ">
+                <g transform="translate(220.45860116314662 173.31389654116927 ) ">
+                  <text style="fill:#ffffff;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(255,255,255)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>IA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 44.30310682583411 213.85277012549741 ) ">
+                <g transform="translate(44.30310682583411 217.35277012549741 ) ">
+                  <text style="fill:#ffffff;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(255,255,255)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>CA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 301.9305172941537 ) ">
+                <g transform="translate(352.575221916131 305.4305172941537 ) ">
+                  <text style="fill:#ffffff;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(255,255,255)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>GA</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="c78WTvq">
+            <rect x="0.0" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+        <defs>
+          <clipPath id="cQO50Xj">
+            <rect x="0.0" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+        <defs>
+          <clipPath id="czLQ3Jf">
+            <rect x="0.0" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+      </g>
+      <g>
+        <g transform="translate(0.0 402.6666666666667 ) ">
+        </g>
+        <g transform="translate(0.0 19.0 ) ">
+        </g>
+      </g>
+      <g transform="translate(264.49747474747477 13.4 ) ">
+        <text style="font-size:13.0px;" y="0.0" class="facet-strip-text-x" text-anchor="middle">
+          <tspan>Democratic</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(23.505050505050463 68.0 ) ">
+      <g>
+        <g transform="translate(538.9949494949495 19.0 ) ">
+          <g>
+          </g>
+        </g>
+        <g transform="translate(538.9949494949495 19.0 ) ">
+          <g>
+          </g>
+        </g>
+      </g>
+      <g clip-path="url(#clSj3uY)" clip-bounds-jfx="[rect (538.9949494949495, 19.0), (528.9949494949495, 383.6666666666667)]">
+        <g transform="translate(538.9949494949495 19.0 ) ">
+          <g>
+            <g buffered-rendering="static">
+              <g>
+                <g >
+                  <rect fill="#a2b089" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="17.439393939393923" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#93a37f" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="17.439393939393923" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#859676" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="61.47826752372206" height="40.51576369758188" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="61.47826752372206" height="40.51576369758188" width="40.51576369758186" />
+                  <rect fill="#a1af89" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="61.47826752372206" height="40.51576369758188" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="105.5171411080502" height="40.51576369758189" width="40.5157636975819" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#a2b08a" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="105.5171411080502" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="105.5171411080502" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#8f9f7d" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="105.5171411080502" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="105.5171411080502" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="105.5171411080502" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="149.55601469237834" height="40.51576369758189" width="40.5157636975819" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#99a883" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="149.55601469237834" height="40.51576369758189" width="40.51576369758189" />
+                  <rect fill="#7b8d70" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="149.55601469237834" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#9dab86" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="149.55601469237834" height="40.51576369758189" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="464.43396082032444" y="149.55601469237834" height="40.51576369758189" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="193.59488827670648" height="40.51576369758186" width="40.5157636975819" />
+                  <rect fill="#9fae88" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="193.59488827670648" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="193.59488827670648" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="193.59488827670648" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="420.3950872359963" y="193.59488827670648" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="68.08409856137129" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="112.12297214569942" y="237.6337618610346" height="40.51576369758186" width="40.5157636975819" />
+                  <rect fill="#a3b18a" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="237.6337618610346" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="237.6337618610346" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="237.6337618610346" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="237.6337618610346" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="237.6337618610346" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="281.67263544536274" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="200.2007193143557" y="281.67263544536274" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#a2b08a" stroke="#dad7cd" stroke-width="1.1" x="244.2395928986838" y="281.67263544536274" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#9dac86" stroke="#dad7cd" stroke-width="1.1" x="288.2784664830119" y="281.67263544536274" height="40.51576369758186" width="40.51576369758192" />
+                  <rect fill="#99a884" stroke="#dad7cd" stroke-width="1.1" x="332.31734006734007" y="281.67263544536274" height="40.51576369758186" width="40.51576369758186" />
+                  <rect fill="#ffffff" stroke="#dad7cd" stroke-width="1.1" x="24.045224977043166" y="325.7115090296909" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#4e6552" stroke="#dad7cd" stroke-width="1.1" x="156.16184573002755" y="325.7115090296909" height="40.51576369758186" width="40.51576369758189" />
+                  <rect fill="#687c63" stroke="#dad7cd" stroke-width="1.1" x="376.3562136516682" y="325.7115090296909" height="40.51576369758186" width="40.51576369758192" />
+                </g>
+              </g>
+            </g>
+            <g buffered-rendering="static">
+              <g transform="rotate(0.0 44.30310682583411 37.69727578818487 ) ">
+                <g transform="translate(44.30310682583411 41.19727578818487 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>AK</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 484.69184266911543 37.69727578818487 ) ">
+                <g transform="translate(484.69184266911543 41.19727578818487 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>ME</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 81.73614937251301 ) ">
+                <g transform="translate(264.49747474747477 85.23614937251301 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>WI</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 484.69184266911543 81.73614937251301 ) ">
+                <g transform="translate(484.69184266911543 85.23614937251301 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NH</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 220.45860116314662 125.77502295684114 ) ">
+                <g transform="translate(220.45860116314662 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>MN</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 125.77502295684114 ) ">
+                <g transform="translate(308.53634833180286 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>MI</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 125.77502295684114 ) ">
+                <g transform="translate(396.61409550045914 129.27502295684116 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NY</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 44.30310682583411 169.81389654116927 ) ">
+                <g transform="translate(44.30310682583411 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>OR</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 220.45860116314662 169.81389654116927 ) ">
+                <g transform="translate(220.45860116314662 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>IA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 169.81389654116927 ) ">
+                <g transform="translate(308.53634833180286 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>OH</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 169.81389654116927 ) ">
+                <g transform="translate(352.575221916131 173.31389654116927 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>PA</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 176.41972757881848 213.85277012549741 ) ">
+                <g transform="translate(176.41972757881848 217.35277012549741 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NE</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 176.41972757881848 257.89164370982553 ) ">
+                <g transform="translate(176.41972757881848 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>KS</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 257.89164370982553 ) ">
+                <g transform="translate(308.53634833180286 261.39164370982553 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>NC</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 264.49747474747477 301.9305172941537 ) ">
+                <g transform="translate(264.49747474747477 305.4305172941537 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>MS</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 308.53634833180286 301.9305172941537 ) ">
+                <g transform="translate(308.53634833180286 305.4305172941537 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>AL</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 352.575221916131 301.9305172941537 ) ">
+                <g transform="translate(352.575221916131 305.4305172941537 ) ">
+                  <text style="fill:#344e41;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(52,78,65)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>GA</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+            <g buffered-rendering="static">
+              <g transform="rotate(0.0 176.41972757881848 345.9693908784818 ) ">
+                <g transform="translate(176.41972757881848 349.4693908784818 ) ">
+                  <text style="fill:#ffffff;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(255,255,255)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>TX</tspan>
+                  </text>
+                </g>
+              </g>
+              <g transform="rotate(0.0 396.61409550045914 345.9693908784818 ) ">
+                <g transform="translate(396.61409550045914 349.4693908784818 ) ">
+                  <text style="fill:#ffffff;font-size:10.0px;font-family:sans-serif;" y="0.0" fill="rgb(255,255,255)" fill-opacity="1.0" text-anchor="middle">
+                    <tspan>FL</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="cMwqml8">
+            <rect x="538.9949494949495" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+        <defs>
+          <clipPath id="cOd11zU">
+            <rect x="538.9949494949495" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+        <defs>
+          <clipPath id="clSj3uY">
+            <rect x="538.9949494949495" y="19.0" width="528.9949494949495" height="383.6666666666667">
+            </rect>
+          </clipPath>
+        </defs>
+      </g>
+      <g>
+        <g transform="translate(538.9949494949495 402.6666666666667 ) ">
+        </g>
+        <g transform="translate(538.9949494949495 19.0 ) ">
+        </g>
+      </g>
+      <g transform="translate(803.4924242424242 13.4 ) ">
+        <text style="font-size:13.0px;" y="0.0" class="facet-strip-text-x" text-anchor="middle">
+          <tspan>Republican</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="translate(23.505050505050463 16.6 ) ">
+      <text style="font-size:17.0px;" y="0.0" class="plot-title">
+        <tspan>Declared Democratic spend was largest in California,</tspan>
+      </text>
+      <text style="font-size:17.0px;" y="17.0" class="plot-title">
+        <tspan>declared Republican spend in Texas</tspan>
+      </text>
+    </g>
+    <g transform="translate(23.505050505050463 50.6 ) ">
+      <text style="font-size:12.0px;" y="0.0" class="plot-subtitle">
+        <tspan>Single-state Google ads by the top 200 advertisers, candidates and party committees only.</tspan>
+      </text>
+      <text style="font-size:12.0px;" y="12.0" class="plot-subtitle">
+        <tspan>Same colour scale in both maps; white means no declared spend found.</tspan>
+      </text>
+    </g>
+    <g transform="translate(1091.4949494949497 546.2 ) ">
+      <text style="font-size:9.0px;" y="0.0" class="plot-caption" text-anchor="end">
+        <tspan>Source: Google Political Ads Transparency Report via BigQuery (bigquery-public-data.google_political_ads).</tspan>
+      </text>
+      <text style="font-size:9.0px;" y="9.0" class="plot-caption" text-anchor="end">
+        <tspan>US advertisers, Google ads only. Weekly spend; incomplete current week excluded.</tspan>
+      </text>
+    </g>
+    <g transform="translate(17.505050505050463 278.83333333333337 ) rotate(-90.0 ) ">
+    </g>
+    <g transform="translate(557.5 485.6666666666667 ) ">
+    </g>
+    <g transform="translate(464.23176039089094 488.6666666666667 ) ">
+      <rect x="0.0" y="0.0" height="50.33333333333333" width="186.53647921821806" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" fill="rgb(255,255,255)" fill-opacity="1.0">
+      </rect>
+      <g transform="translate(5.0 5.0 ) ">
+        <g transform="">
+          <g>
+            <rect x="0.0" y="0.0" height="23.0" width="176.53647921821806" stroke-width="0.0" fill="rgb(160,174,136)" fill-opacity="1.0">
+            </rect>
+            <rect x="10.626823960910903" y="0.0" height="23.0" width="165.90965525730715" stroke-width="0.0" fill="rgb(154,169,132)" fill-opacity="1.0">
+            </rect>
+            <rect x="19.253647921821806" y="0.0" height="23.0" width="157.28283129639627" stroke-width="0.0" fill="rgb(148,164,128)" fill-opacity="1.0">
+            </rect>
+            <rect x="27.880471882732706" y="0.0" height="23.0" width="148.65600733548536" stroke-width="0.0" fill="rgb(143,159,125)" fill-opacity="1.0">
+            </rect>
+            <rect x="36.50729584364361" y="0.0" height="23.0" width="140.02918337457444" stroke-width="0.0" fill="rgb(137,154,121)" fill-opacity="1.0">
+            </rect>
+            <rect x="45.134119804554516" y="0.0" height="23.0" width="131.40235941366353" stroke-width="0.0" fill="rgb(131,148,117)" fill-opacity="1.0">
+            </rect>
+            <rect x="53.76094376546542" y="0.0" height="23.0" width="122.77553545275265" stroke-width="0.0" fill="rgb(125,143,113)" fill-opacity="1.0">
+            </rect>
+            <rect x="62.387767726376325" y="0.0" height="23.0" width="114.14871149184174" stroke-width="0.0" fill="rgb(120,138,110)" fill-opacity="1.0">
+            </rect>
+            <rect x="71.01459168728722" y="0.0" height="23.0" width="105.52188753093084" stroke-width="0.0" fill="rgb(114,133,106)" fill-opacity="1.0">
+            </rect>
+            <rect x="79.64141564819812" y="0.0" height="23.0" width="96.89506357001994" stroke-width="0.0" fill="rgb(109,128,102)" fill-opacity="1.0">
+            </rect>
+            <rect x="88.26823960910902" y="0.0" height="23.0" width="88.26823960910905" stroke-width="0.0" fill="rgb(103,123,99)" fill-opacity="1.0">
+            </rect>
+            <rect x="96.89506357001991" y="0.0" height="23.0" width="79.64141564819815" stroke-width="0.0" fill="rgb(98,118,95)" fill-opacity="1.0">
+            </rect>
+            <rect x="105.52188753093081" y="0.0" height="23.0" width="71.01459168728725" stroke-width="0.0" fill="rgb(92,113,91)" fill-opacity="1.0">
+            </rect>
+            <rect x="114.14871149184171" y="0.0" height="23.0" width="62.38776772637635" stroke-width="0.0" fill="rgb(87,109,88)" fill-opacity="1.0">
+            </rect>
+            <rect x="122.7755354527526" y="0.0" height="23.0" width="53.760943765465456" stroke-width="0.0" fill="rgb(81,104,84)" fill-opacity="1.0">
+            </rect>
+            <rect x="131.4023594136635" y="0.0" height="23.0" width="45.13411980455456" stroke-width="0.0" fill="rgb(76,99,81)" fill-opacity="1.0">
+            </rect>
+            <rect x="140.02918337457442" y="0.0" height="23.0" width="36.50729584364365" stroke-width="0.0" fill="rgb(70,94,77)" fill-opacity="1.0">
+            </rect>
+            <rect x="148.65600733548533" y="0.0" height="23.0" width="27.880471882732735" stroke-width="0.0" fill="rgb(65,90,74)" fill-opacity="1.0">
+            </rect>
+            <rect x="157.28283129639624" y="0.0" height="23.0" width="19.253647921821823" stroke-width="0.0" fill="rgb(60,85,70)" fill-opacity="1.0">
+            </rect>
+            <rect x="165.90965525730715" y="0.0" height="23.0" width="10.626823960910912" stroke-width="0.0" fill="rgb(55,80,67)" fill-opacity="1.0">
+            </rect>
+            <line x1="41.92269860182812" y1="0.0" x2="41.92269860182812" y2="4.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <line x1="41.92269860182812" y1="19.0" x2="41.92269860182812" y2="23.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <g transform="translate(41.92269860182812 36.43333333333333 ) ">
+              <text style="font-size:13.0px;" y="0.0" class="legend-item" text-anchor="middle">
+                <tspan>$5M</tspan>
+              </text>
+            </g>
+            <line x1="81.88936053177919" y1="0.0" x2="81.88936053177919" y2="4.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <line x1="81.88936053177919" y1="19.0" x2="81.88936053177919" y2="23.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <g transform="translate(81.88936053177919 36.43333333333333 ) ">
+              <text style="font-size:13.0px;" y="0.0" class="legend-item" text-anchor="middle">
+                <tspan>$10M</tspan>
+              </text>
+            </g>
+            <line x1="121.85602246173026" y1="0.0" x2="121.85602246173026" y2="4.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <line x1="121.85602246173026" y1="19.0" x2="121.85602246173026" y2="23.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <g transform="translate(121.85602246173026 36.43333333333333 ) ">
+              <text style="font-size:13.0px;" y="0.0" class="legend-item" text-anchor="middle">
+                <tspan>$15M</tspan>
+              </text>
+            </g>
+            <line x1="161.82268439168132" y1="0.0" x2="161.82268439168132" y2="4.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <line x1="161.82268439168132" y1="19.0" x2="161.82268439168132" y2="23.0" stroke-width="1.0" stroke="rgb(255,255,255)" stroke-opacity="1.0">
+            </line>
+            <g transform="translate(161.82268439168132 36.43333333333333 ) ">
+              <text style="font-size:13.0px;" y="0.0" class="legend-item" text-anchor="middle">
+                <tspan>$20M</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path fill="rgb(0,0,0)" fill-opacity="0.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" d="M2.5050505050504626 0.0 L2.5050505050504626 560.0 L1097.4949494949497 560.0 L1097.4949494949497 0.0 Z" pointer-events="none">
+    </path>
+  </g>
+  <g id="dXiyPCq">
+  </g>
+</svg>
